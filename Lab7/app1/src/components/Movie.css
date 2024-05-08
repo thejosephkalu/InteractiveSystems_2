@@ -51,14 +51,3 @@ body{
 .movie:hover .movie-overview{
     transform: translateY(0%);
 }
-.green {
-    color: green;
-  }
-  
-  .yellow {
-    color: yellow;
-  }
-  
-  .red {
-    color: red;
-  }
